@@ -53,7 +53,7 @@ Organize files into a more consistent structure. Group images into a `images/` d
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
 _Include the commit URL for your reorganized project here._
-[github.com/natashaedman/tfcb-homework01/tree/reorganized/](https://github.com/natashaedman/tfcb-homework01/tree/reorganized).
+(https://github.com/natashaedman/tfcb-homework01/commit/a66f0b8b66f38a60fc3023d35a52a92b562bc27c)
 
 ## Problem 4
 
@@ -66,6 +66,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 Commit this file and publish to your public GitHub repository.
 
 _Include the link to your `README.md` here._
+(https://github.com/natashaedman/tfcb-homework01/blob/reorganized/README.md)
 
 ## Problem 5
 
@@ -80,3 +81,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
 _Include the link to your `.tsv` file on GitHub here._
+(https://github.com/natashaedman/tfcb-homework01/blob/reorganized/data/survey_data_clean.tsv)
